@@ -19,7 +19,7 @@ Repozytorium `sudoku` zawiera następujące pliki oraz foldery:
   
 ### Uruchomienie gry
 
-Uruchomienia gry przy użyciu:
+Uruchomienie gry przy użyciu:
 
 ```
 ./Sudoku.py
